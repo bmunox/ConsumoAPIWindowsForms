@@ -1,0 +1,14 @@
+C:\Users\brimu\source\repos\ConsumoAPIWindowsForms\ConsumoAPIWindowsForms\bin\Debug\ConsumoAPIWindowsForms.exe.config
+C:\Users\brimu\source\repos\ConsumoAPIWindowsForms\ConsumoAPIWindowsForms\bin\Debug\ConsumoAPIWindowsForms.exe
+C:\Users\brimu\source\repos\ConsumoAPIWindowsForms\ConsumoAPIWindowsForms\bin\Debug\ConsumoAPIWindowsForms.pdb
+C:\Users\brimu\source\repos\ConsumoAPIWindowsForms\ConsumoAPIWindowsForms\bin\Debug\Newtonsoft.Json.dll
+C:\Users\brimu\source\repos\ConsumoAPIWindowsForms\ConsumoAPIWindowsForms\bin\Debug\Newtonsoft.Json.xml
+C:\Users\brimu\source\repos\ConsumoAPIWindowsForms\ConsumoAPIWindowsForms\obj\Debug\ConsumoAPIWindowsForms.csprojAssemblyReference.cache
+C:\Users\brimu\source\repos\ConsumoAPIWindowsForms\ConsumoAPIWindowsForms\obj\Debug\ConsumoAPIWindowsForms.Form1.resources
+C:\Users\brimu\source\repos\ConsumoAPIWindowsForms\ConsumoAPIWindowsForms\obj\Debug\ConsumoAPIWindowsForms.Properties.Resources.resources
+C:\Users\brimu\source\repos\ConsumoAPIWindowsForms\ConsumoAPIWindowsForms\obj\Debug\ConsumoAPIWindowsForms.csproj.GenerateResource.cache
+C:\Users\brimu\source\repos\ConsumoAPIWindowsForms\ConsumoAPIWindowsForms\obj\Debug\ConsumoAPIWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\brimu\source\repos\ConsumoAPIWindowsForms\ConsumoAPIWindowsForms\obj\Debug\ConsumoAPIWindowsForms.csproj.CopyComplete
+C:\Users\brimu\source\repos\ConsumoAPIWindowsForms\ConsumoAPIWindowsForms\obj\Debug\ConsumoAPIWindowsForms.exe
+C:\Users\brimu\source\repos\ConsumoAPIWindowsForms\ConsumoAPIWindowsForms\obj\Debug\ConsumoAPIWindowsForms.pdb
+C:\Users\brimu\source\repos\ConsumoAPIWindowsForms\ConsumoAPIWindowsForms\obj\Debug\ConsumoAPIWindowsForms.frmPopupDoctor.resources
